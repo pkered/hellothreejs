@@ -4,6 +4,7 @@
   "description": "learn threejs",
   "private": true,
   "dependencies": {
+    "opencv-wasm": "^4.3.0-4",
     "three": "^0.119.1",
     "underscore": "^1.10.2"
   },
